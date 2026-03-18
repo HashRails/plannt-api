@@ -151,7 +151,7 @@ OPENAI_KEY=     # Optional — required for /v1/generate endpoint
 ### Deploy to Fly.io
 
 ```bash
-git clone https://github.com/DanSanchez/plannt-api
+git clone https://github.com/HashRails/plannt-api
 cd plannt-api
 npm install
 
