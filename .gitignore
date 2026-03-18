@@ -1,0 +1,8 @@
+node_modules/
+.env
+cert.b64
+macaroon.b64
+.DS_Store
+*.pdf
+problem.html
+Plannt-PreSeed.pdf
